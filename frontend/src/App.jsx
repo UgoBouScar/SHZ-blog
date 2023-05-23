@@ -1,5 +1,5 @@
 import { BrowserRouter, Routes, Route } from "react-router-dom";
-import Articles from "@pages/Articles";
+import Artistes from "@pages/Artistes";
 import "./App.css";
 
 function App() {
@@ -9,7 +9,7 @@ function App() {
         <h1 className="titre"> SHZ BLOG </h1>
       </div>
       <Routes>
-        <Route path="/" element={<Articles />} />
+        <Route path="/" element={<Artistes />} />
       </Routes>
     </BrowserRouter>
   );

@@ -4,7 +4,7 @@
     "titre": "Choko",
     "style": "Tekno, Mental, Acid",
     "image": {
-      "src": "assets/Choko.jpg",
+      "src": "/src/assets/Choko.jpg",
       "alt": "Description de l'image 1"
     },
 
@@ -16,7 +16,7 @@
     "titre": "Bandikoot",
     "style": "Tekno, Mental, Tribe",
     "image": {
-      "src": "assets/Bandikoot.jpg",
+      "src": "/src/assets/Bandikoot.jpg",
       "alt": "Description de l'image 2"
     },
     "legende": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
@@ -27,7 +27,7 @@
     "titre": "Alyosen",
     "style": "Mental, Tribe",
     "image": {
-      "src": "assets/Alyosen.jpg",
+      "src": "/src/assets/Alyosen.jpg",
       "alt": "Description de l'image 3"
     },
     "legende": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
@@ -38,7 +38,7 @@
     "titre": "Verdure",
     "style": "Tribe; Indus",
     "image": {
-      "src": "assets/Verdure.jpg",
+      "src": "/src/assets/Verdure.jpg",
       "alt": "Description de l'image 4"
     },
     "legende": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
@@ -49,7 +49,7 @@
     "titre": "Katek",
     "sous_titre": "Tekno, Acid",
     "image": {
-      "src": "assets/Katek.jpg",
+      "src": "/src/assets/Katek.jpg",
       "alt": "Description de l'image 5"
     },
     "legende": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
@@ -60,7 +60,7 @@
     "titre": "Mylacid",
     "style": "Acid, Tekno, Techno",
     "image": {
-      "src": "assets/Mylacid.jpg",
+      "src": "/src/assets/Mylacid.jpg",
       "alt": "Description de l'image 6"
     },
     "legende": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
@@ -71,7 +71,7 @@
     "titre": "Bertha",
     "style": "Acid Core",
     "image": {
-      "src": "assets/Bertha.jpg",
+      "src": "/src/assets/Bertha.jpg",
       "alt": "Description de l'image 7"
     },
     "legende": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
@@ -82,7 +82,7 @@
     "titre": "Piou",
     "style": "Mental, Tribe, Break",
     "image": {
-      "src": "assets/Piou.jpg",
+      "src": "/src/assets/Piou.jpg",
       "alt": "Description de l'image 8"
     },
     "legende": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
@@ -93,7 +93,7 @@
     "titre": "Additiv Frequency",
     "style": "Progressiv, Zenon",
     "image": {
-      "src": "assets/AdditivFrequency.jpg",
+      "src": "/src/assets/AdditivFrequency.jpg",
       "alt": "Description de l'image 9"
     },
     "legende": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
@@ -104,7 +104,7 @@
     "titre": "Catharso",
     "style": "Dirty House, Techno, Drum & bass",
     "image": {
-      "src": "assets/Catharso.jpg",
+      "src": "/src/assets/Catharso.jpg",
       "alt": "Description de l'image 10"
     },
     "legende": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",

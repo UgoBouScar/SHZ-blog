@@ -1,0 +1,62 @@
+@import url("https://fonts.googleapis.com/css2?family=Orbitron&display=swap");
+
+.fullbody {
+  background-image: url(assets/pexels-engin-akyurt-2092075.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+h1 {
+  text-align: center;
+  font-family: "Orbitron", sans-serif;
+}
+
+.container {
+  font-family: "Orbitron", sans-serif;
+
+  border-radius: 5px;
+  padding: 20px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  text-align: center; /* Ajout de la propriété pour centrer le contenu */
+}
+
+.header {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.header h2 {
+  font-size: 18px;
+  color: #333;
+}
+
+.imginfo {
+  margin: 0 auto; /* Ajout de la propriété pour centrer l'image horizontalement */
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+img {
+  width: 27rem;
+  object-fit: cover;
+  border-radius: 2%;
+}
+
+.info {
+  text-align: center;
+}
+
+.info button {
+  background-color: #3498db;
+  color: #fff;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  font-size: 14px;
+  cursor: pointer;
+  display: block;
+}
+
+.info button:hover {
+  background-color: black;
+}

@@ -1,13 +1,19 @@
-import Home from "./pages/Home";
-
+import { BrowserRouter, Routes, Route } from "react-router-dom";
+import Artistes from "@pages/Artistes";
+import OneArtist from "@pages/OneArtist";
 import "./App.css";
 
 function App() {
   return (
-    <div className="App">
-      <Home />
-      <p>coucou</p>
-    </div>
+    <BrowserRouter>
+      <div className="App">
+        <h1 className="titre"> SHZ BLOG </h1>
+      </div>
+      <Routes>
+        <Route path="/" element={<Artistes />} />
+        <Route path="/artiste/:id" element={<OneArtist />} />
+      </Routes>
+    </BrowserRouter>
   );
 }
 

@@ -1,5 +1,6 @@
 import React from "react";
 import PropTypes from "prop-types";
+import { Link } from "react-router-dom";
 import ArtisteType from "../types/artist";
 
 function ArtisteCard({ artiste }) {
@@ -13,10 +14,11 @@ function ArtisteCard({ artiste }) {
           <img src={artiste.image.src} alt={artiste.image.alt} />
         </div>
         <div className="info">
-          <input type="button" value="More Info" />
+          <Link to={`/artiste/${artiste.id}`}>
+            <input type="button" value="More Info" />
+          </Link>
         </div>
       </div>
-      ;
     </div>
   );
 }

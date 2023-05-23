@@ -3,8 +3,11 @@
     "id": 1,
     "titre": "Choko",
     "style": "Tekno, Mental, Acid",
-    "image": "assets/Choko.jpg",
-    "alt": "Description de l'image 1",
+    "image": {
+      "src": "assets/Choko.jpg",
+      "alt": "Description de l'image 1"
+    },
+
     "legende": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
   },
@@ -12,8 +15,10 @@
     "id": 2,
     "titre": "Bandikoot",
     "style": "Tekno, Mental, Tribe",
-    "image": "assets/Bandikoot.jpg",
-    "alt": "Description de l'image 2",
+    "image": {
+      "src": "assets/Bandikoot.jpg",
+      "alt": "Description de l'image 2"
+    },
     "legende": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
   },
@@ -21,8 +26,10 @@
     "id": 3,
     "titre": "Alyosen",
     "style": "Mental, Tribe",
-    "image": "assets/Alyosen.jpg",
-    "alt": "Description de l'image 3",
+    "image": {
+      "src": "assets/Alyosen.jpg",
+      "alt": "Description de l'image 3"
+    },
     "legende": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
   },
@@ -30,8 +37,10 @@
     "id": 4,
     "titre": "Verdure",
     "style": "Tribe; Indus",
-    "image": "assets/Verdure.jpg",
-    "alt": "Description de l'image 4",
+    "image": {
+      "src": "assets/Verdure.jpg",
+      "alt": "Description de l'image 4"
+    },
     "legende": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
   },
@@ -39,8 +48,10 @@
     "id": 5,
     "titre": "Katek",
     "sous_titre": "Tekno, Acid",
-    "image": "assets/Katek.jpg",
-    "alt": "Description de l'image 5",
+    "image": {
+      "src": "assets/Katek.jpg",
+      "alt": "Description de l'image 5"
+    },
     "legende": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
   },
@@ -48,8 +59,10 @@
     "id": 6,
     "titre": "Mylacid",
     "style": "Acid, Tekno, Techno",
-    "image": "assets/Mylacid.jpg",
-    "alt": "Description de l'image 6",
+    "image": {
+      "src": "assets/Mylacid.jpg",
+      "alt": "Description de l'image 6"
+    },
     "legende": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
   },
@@ -57,8 +70,10 @@
     "id": 7,
     "titre": "Bertha",
     "style": "Acid Core",
-    "image": "assets/Bertha.jpg",
-    "alt": "Description de l'image 7",
+    "image": {
+      "src": "assets/Bertha.jpg",
+      "alt": "Description de l'image 7"
+    },
     "legende": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
   },
@@ -66,8 +81,10 @@
     "id": 8,
     "titre": "Piou",
     "style": "Mental, Tribe, Break",
-    "image": "assets/Piou.jpg",
-    "alt": "Description de l'image 8",
+    "image": {
+      "src": "assets/Piou.jpg",
+      "alt": "Description de l'image 8"
+    },
     "legende": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
   },
@@ -75,8 +92,10 @@
     "id": 9,
     "titre": "Additiv Frequency",
     "style": "Progressiv, Zenon",
-    "image": "assets/AdditifFrequency.jpg",
-    "alt": "Description de l'image 8",
+    "image": {
+      "src": "assets/AdditivFrequency.jpg",
+      "alt": "Description de l'image 9"
+    },
     "legende": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
   },
@@ -84,8 +103,10 @@
     "id": 10,
     "titre": "Catharso",
     "style": "Dirty House, Techno, Drum & bass",
-    "image": "assets/Catharso.jpg",
-    "alt": "Description de l'image 8",
+    "image": {
+      "src": "assets/Catharso.jpg",
+      "alt": "Description de l'image 10"
+    },
     "legende": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
   }

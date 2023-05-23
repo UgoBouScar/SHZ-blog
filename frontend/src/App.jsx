@@ -1,5 +1,6 @@
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Artistes from "@pages/Artistes";
+import OneArtist from "@pages/OneArtist";
 import "./App.css";
 
 function App() {
@@ -10,6 +11,7 @@ function App() {
       </div>
       <Routes>
         <Route path="/" element={<Artistes />} />
+        <Route path="/artistes/:id" element={<OneArtist />} />
       </Routes>
     </BrowserRouter>
   );

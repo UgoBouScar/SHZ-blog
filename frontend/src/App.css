@@ -46,7 +46,7 @@ img {
   text-align: center;
 }
 
-.info button {
+.info input {
   background-color: #3498db;
   color: #fff;
   padding: 10px 20px;
@@ -57,6 +57,6 @@ img {
   display: block;
 }
 
-.info button:hover {
+.info input:hover {
   background-color: black;
 }
